@@ -76,9 +76,10 @@ http://quarantineadviser.somee.com
 
 ### **Link to a three-minute demo video** :-
 
-[![Quarantine Adviser and Helper](//img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](//https://www.youtube.com/watch?v=-cetFNtmUQ0 "Quarantine Adviser and Helper")
+[![Quarantine Adviser and Helper](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](//https://www.youtube.com/watch?v=-cetFNtmUQ0 "Quarantine Adviser and Helper")
 
-**You tube link:**
+**Youtube link:**
+
 [https://www.youtube.com/watch?v=-cetFNtmUQ0](https://www.youtube.com/watch?v=-cetFNtmUQ0)
 
 ### **List of one or more IBM Cloud Services or IBM Systems used in the solution-**
