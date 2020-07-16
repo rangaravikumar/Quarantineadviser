@@ -1,16 +1,16 @@
-**Submission name** :-
+#### **Submission name** :-
 
 Quarantine Adviser and Helper Chat bot for COVID Patient.
 
-**Submission track**** :-**
+####**Submission track**:-
 
 COVID-19 Track-Crisis communication
 
-**Short description:-**
+####**Short description:-**
 
 This chat bot gives a better suggestion to the COVID patient about quarantine related dilemmas. It also helps for hospital bed booking for treatment, hotel room booking for quarantine and displays various home quarantine packages in selected location
 
-**Long description** :-
+####**Long description** :-
 
 **What&#39;s the problem?**** -**
 
@@ -42,7 +42,7 @@ Chat bot gives any one of below suggestions based on answers to questions given 
 
 This chat bot is very useful for COVID patients when he/her have dilemmas about quarantine treatment.
 
-**Solution roadmap** -
+####**Solution roadmap** -
 
 [![QuarantineAdviser](https://github.com/rangaravikumar/Quarantineadviser/blob/master/IbmHackthon.png "QuarantineAdviser")](https://github.com/rangaravikumar/Quarantineadviser/blob/master/IbmHackthon.png "QuarantineAdviser")
 
@@ -50,9 +50,7 @@ Currently I integrated IBM Watson assistant with Facebook Messanger and HTML Web
 
 For HTML web app integration ,I did not use any server side application, directly integrated IBM Watson assistant chat bot service preview link through Iframe because I have IBM Cloud Lite plan only, its limited upto 256 MB Only. In future, I will create server side application using Node.JS
 
-Create a document or image that shows how mature your solution is today and how you would like to improve it in the future. This can include information on the business model, funding needs, and a sustainability plan.
-
-**Live Demo** :
+####**Live Demo** :
 
 **IBM Assistant Chat Bot Preview Link:**
 
@@ -76,18 +74,20 @@ http://quarantineadviser.somee.com
 
 [https://www.facebook.com/Quarantine-Adviser-104468374675654](https://www.facebook.com/Quarantine-Adviser-104468374675654)
 
-**Link to a three-minute demo video** :-
+####**Link to a three-minute demo video** :-
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=-cetFNtmUQ0)
 
 [https://www.youtube.com/watch?v=-cetFNtmUQ0](https://www.youtube.com/watch?v=-cetFNtmUQ0)
 
-**List of one or more IBM Cloud Services or IBM Systems used in the solution-**
+####**List of one or more IBM Cloud Services or IBM Systems used in the solution-**
 
 - **IBM Watson Assistant**
 - Facebook Messanger Platform
 - HTML with Javascript
 
-**Your email address and the email addresses of up to four additional team members-**
+####**Your email address and the email addresses of up to four additional team members-**
 
 **Email Id** :ravikumar.ranga@infosys.com, **Employee Id** :1030168
 
-**Additional details** -
+####**Additional details** -
