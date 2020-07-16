@@ -76,7 +76,7 @@ http://quarantineadviser.somee.com
 
 ### **Link to a three-minute demo video** :-
 
-[![Quarantine Adviser and Helper](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](//https://www.youtube.com/watch?v=-cetFNtmUQ0 "Quarantine Adviser and Helper")
+[![Quarantine Adviser and Helper](https://github.com/rangaravikumar/Quarantineadviser/blob/master/IBMAsst.png)](https://www.youtube.com/watch?v=-cetFNtmUQ0 "Quarantine Adviser and Helper")
 
 **Youtube link:**
 
